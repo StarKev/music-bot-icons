@@ -7,11 +7,14 @@ Ces icônes peuvent bien sûr être utilisées dans d'autres projets si besoin.
 
 | Icône      | Usage principal             |
 |-----------|----------------------------|
-| `pause.png`   | Bouton pause               |
-| `resume.png`  | Bouton reprendre           |
-| `stop.png`    | Bouton stop                |
-| `expand.png`  | Bouton pour afficher complet |
-| `collapse.png`| Bouton pour réduire l'affichage |
+| <img src="/pause.png" alt="pause">   | Bouton pause               |
+| <img src="/play.png" alt="play">  | Bouton reprendre           |
+| <img src="/stop.png" alt="stop">    | Bouton stop                |
+| <img src="/expand.png" alt="expand">  | Bouton pour afficher complet |
+| <img src="/collapse.png" alt="collapse"> | Bouton pour réduire l'affichage |
+| <img src="/youtube.png" alt="youtube"> | Bouton pour accéder à la musique sur YouTube |
+| <img src="/spotify.png" alt="spotify"> |  Bouton pour accéder à la musique sur Spotify |
+| <img src="/soundcloud.png" alt="soundcloud"> |  Bouton pour accéder à la musique sur SoundCloud |
 
 ## Utilisation dans un bot Discord
 
